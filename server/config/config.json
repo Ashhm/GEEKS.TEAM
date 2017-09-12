@@ -1,0 +1,13 @@
+{
+  "serverConfig": {
+    "port": 3000,
+    "host": "localhost"
+  },
+  "dataBaseConfig": {
+    "port": 27017,
+    "host": "localhost",
+    "name": "users",
+    "user": "",
+    "password": ""
+  }
+}
